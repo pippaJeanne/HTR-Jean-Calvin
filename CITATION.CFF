@@ -1,4 +1,4 @@
-type: dataset
+type: "dataset"
 cff-version: 1.0
 message: "If you use this models, please cite it as below."
 authors:
