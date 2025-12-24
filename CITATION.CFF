@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hernández Pedraza"
+  given-names: "Yanet"
+  orcid: "https://orcid.org/0009-0008-1499-1542"
+title: "HRT Jean Calvin"
+version: 2.0.4
+date-released: 2025-12-23
+url: "https://github.com/pippaJeanne/HTR-Jean-Calvin"
